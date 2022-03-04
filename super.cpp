@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <typeinfo>
 using namespace std;
-const int n=(1<<17)+3;
+const int n=(1<<17)+3;//可修改
 struct timeval tv_begin,tv_end;
 template<class T>
 class test{
