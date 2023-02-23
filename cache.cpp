@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <typeinfo>
 using namespace std;
-const int n=2000;//可修改
+const int n=2000;//
 struct timeval tv_begin,tv_end;
 template<class T>
 class test{
